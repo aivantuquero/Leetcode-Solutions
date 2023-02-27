@@ -1,4 +1,4 @@
-# Leetcode-Solutions
+# Leetcode-Solutions made in Java
 
 My Accepted leetcode solutions.
 
